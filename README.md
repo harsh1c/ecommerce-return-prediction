@@ -58,7 +58,7 @@ ecommerce-return-prediction/
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/harsh1c/ecommerce-return-prediction.git
 cd ecommerce-return-prediction
 ```
 
@@ -103,4 +103,4 @@ The model achieved a modest ROC-AUC score, indicating limited predictive power f
 
 ## Author
 
-Your Name
+Harsh Chandrawal
