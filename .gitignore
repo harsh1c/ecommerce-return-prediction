@@ -1,0 +1,13 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*:Zone.Identifier
+
+# OS
+.DS_Store
